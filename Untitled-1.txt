@@ -1,0 +1,18 @@
+a = int("enter your first no.:")
+b = int("enter your second no.:")
+add = a + b
+sub = a - b 
+mul = a * b 
+div = a/b
+
+if output == add:
+    print(add)
+elif output == sub:
+    print(sub)
+elif output == mul:
+    print(mul)  
+elif output == div:
+    print(div)  
+    
+ 
+
